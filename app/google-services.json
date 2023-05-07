@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653483417685",
+    "project_id": "multiproyeccion-e653b",
+    "storage_bucket": "multiproyeccion-e653b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653483417685:android:0a6705244d31e5b2beb4dc",
+        "android_client_info": {
+          "package_name": "com.application.multiproyeccion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653483417685-j744km0icrm0f0abvt10rduu9hi8ct3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzngWa7u1hn8HbPEHAx8P9Cybc40ij5rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653483417685-j744km0icrm0f0abvt10rduu9hi8ct3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

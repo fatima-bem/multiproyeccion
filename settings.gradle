@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        //se agrego la linea de jitpack para poder usar la dependencia en el gradle de image picker
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "multiproyeccion"
+include ':app'
